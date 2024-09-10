@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\5x5 array and get the sum of row and column\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0838B67-8B46-4248-8371-0EB6BC44789B}|5x5 array and get the sum of row and column\\5x5 array and get the sum of row and column.vcxproj|C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\5x5 array and get the sum of row and column\\5x5 array and get the sum of row and column\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0838B67-8B46-4248-8371-0EB6BC44789B}|5x5 array and get the sum of row and column\\5x5 array and get the sum of row and column.vcxproj|solutionrelative:5x5 array and get the sum of row and column\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\5x5 array and get the sum of row and column\\5x5 array and get the sum of row and column\\Source.c",
+              "RelativeDocumentMoniker": "5x5 array and get the sum of row and column\\Source.c",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\5x5 array and get the sum of row and column\\5x5 array and get the sum of row and column\\Source.c",
+              "RelativeToolTip": "5x5 array and get the sum of row and column\\Source.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-10T07:18:21.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
